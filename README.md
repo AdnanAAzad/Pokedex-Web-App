@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Using Visual Studio Code; It is required to install dependencies to be able to run via local host.
+This can be done via 'npm install' in terminal.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
